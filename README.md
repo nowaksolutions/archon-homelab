@@ -27,7 +27,7 @@
 <strong>Purpose:</strong> Hands-on SOC and security engineering training environment<br>
 <strong>Focus:</strong> Threat detection, log analysis, and system integration<br>
 <strong>Stack:</strong> Windows, Linux, SIEM, Active Directory, Firewall, Raspberry Pi<br>
-<strong>Approach:</strong> security-driven, structured, and process-oriented
+<strong>Approach:</strong> Structured, disciplined, and process-oriented
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -43,7 +43,7 @@ The environment is intentionally structured around core security operations conc
 </p>
 
 <p>
-My approach is influenced by prior military experience, emphasizing <strong>operational security (OPSEC)</strong>, disciplined troubleshooting, escalation awareness, and structured analysis. This translates into building systems with clear boundaries, maintaining visibility across the environment, and approaching problems with a repeatable and methodical process.
+My approach is influenced by prior military experience, emphasizing disciplined troubleshooting, escalation awareness, and structured analysis. This translates into building systems with clear boundaries, maintaining visibility across the environment, and approaching problems with a repeatable and methodical process.
 </p>
 
 <p>
