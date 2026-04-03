@@ -25,7 +25,7 @@
 
 <p>
 <strong>Purpose:</strong> Hands-on SOC and security engineering training environment<br>
-<strong>Focus:</strong> Threat detection, log analysis, and system integration<br>
+<strong>Focus:</strong> Threat detection, log analysis, vulnerability assessment, and system integration<br>
 <strong>Stack:</strong> Windows, Linux, SIEM, Active Directory, Firewall, Raspberry Pi<br>
 <strong>Approach:</strong> Structured, disciplined, and process-oriented
 </p>
@@ -39,7 +39,11 @@ This homelab is a continuously evolving environment built to develop practical c
 </p>
 
 <p>
-The environment is intentionally structured around core security operations concepts, including <strong>network segmentation</strong>, <strong>centralized logging</strong>, <strong>endpoint visibility</strong>, and <strong>identity management</strong>. Each component is deployed with purpose and integrated to support realistic workflows such as alert triage, investigation, and response validation.
+The environment is intentionally structured around core security operations concepts, including <strong>network segmentation</strong>, <strong>centralized logging</strong>, <strong>continuous monitoring</strong>, <strong>endpoint visibility</strong>, and <strong>identity management</strong>. Each component is deployed with purpose and integrated to support realistic workflows such as alert triage, investigation, and response validation.
+</p>
+
+<p>
+This lab is developed with reference to established security frameworks such as the NIST Cybersecurity Framework (CSF) and supporting guidance from NIST Special Publications, emphasizing structured control implementation, monitoring, and assessment practices.
 </p>
 
 <p>
@@ -66,7 +70,9 @@ The environment is designed to build capability through direct interaction with 
 <strong>Aggregation & Integration</strong> - Centralizing and correlating logs across multiple systems  
 <strong>API Interaction & Automation</strong> - Integrating tools and automating workflows through APIs  
 <strong>Active Directory</strong> - Managing authentication, authorization, and policy enforcement  
-<strong>Cross-Platform Administration</strong> - Operating across Windows and Linux environments for broader system understanding
+<strong>Cross-Platform Administration</strong> - Operating across Windows and Linux environments  
+<strong>Vulnerability Assessment</strong> - Identification, validation, and prioritization of system weaknesses through scanning and analysis  
+<strong>System Hardening & Baselines</strong> - Applying and validating secure configuration standards aligned with industry benchmarks
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -86,7 +92,7 @@ The environment is designed to build capability through direct interaction with 
 
 <tr>
 <td><strong>SIEM</strong></td>
-<td>Centralized logging, event correlation, and detection analysis</td>
+<td>Centralized logging, event correlation, and continuous monitoring</td>
 </tr>
 
 <tr>
@@ -124,7 +130,7 @@ This environment is designed to simulate real-world security operations rather t
 </p>
 
 <p>
-Primary focus areas include generating and analyzing logs, identifying abnormal behavior, validating detections, and understanding how systems interact during both normal operation and potential security events.
+Primary focus areas include generating and analyzing logs, identifying abnormal behavior, validating detections, performing vulnerability assessments, and understanding how systems interact during both normal operation and potential security events.
 </p>
 
 <p>
