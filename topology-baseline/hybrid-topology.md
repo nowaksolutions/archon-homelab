@@ -1,13 +1,13 @@
 <p align="center">
+  This hybrid topology represents a segmented homelab environment combining physical infrastructure
+  and virtual systems to simulate controlled network operations and security-focused traffic flow.
+</p>
+
+<p align="center">
   <img src="assets/archon-phys-topo.jpg" alt="ARCHON Physical Topology" width="850">
 </p>
 
 <h2 align="center">Topology Overview</h2>
-
-<p align="center">
-  This hybrid topology represents a segmented homelab environment combining physical infrastructure
-  and virtual systems to simulate controlled network operations and security-focused traffic flow.
-</p>
 
 <br>
 
