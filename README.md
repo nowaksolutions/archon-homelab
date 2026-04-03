@@ -63,16 +63,53 @@ The environment is designed to build capability through direct interaction with 
 </p>
 
 <p>
-<strong>Digital Forensics</strong> - Analysis of system artifacts, event timelines, and evidence collection across Windows and Linux systems  
-<strong>Threat Hunting & Log Analysis</strong> - Identification of anomalies and indicators of compromise through SIEM workflows  
-<strong>Security & Network Engineering</strong> - Design and enforcement of segmented architecture and controlled traffic flow  
-<strong>Endpoint Detection & Response (EDR)</strong> - Monitoring endpoint behavior and understanding detection mechanisms  
-<strong>Aggregation & Integration</strong> - Centralizing and correlating logs across multiple systems  
-<strong>API Interaction & Automation</strong> - Integrating tools and automating workflows through APIs  
-<strong>Active Directory</strong> - Managing authentication, authorization, and policy enforcement  
-<strong>Cross-Platform Administration</strong> - Operating across Windows and Linux environments  
-<strong>Vulnerability Assessment</strong> - Identification, validation, and prioritization of system weaknesses through scanning and analysis  
-<strong>System Hardening & Baselines</strong> - Applying and validating secure configuration standards aligned with industry benchmarks
+<strong>Digital Forensics</strong><br>
+Analysis of system artifacts, event timelines, and evidence collection across Windows and Linux systems
+</p>
+
+<p>
+<strong>Threat Hunting & Log Analysis</strong><br>
+Identification of anomalies and indicators of compromise through SIEM workflows
+</p>
+
+<p>
+<strong>Security & Network Engineering</strong><br>
+Design and enforcement of segmented architecture and controlled traffic flow
+</p>
+
+<p>
+<strong>Endpoint Detection & Response (EDR)</strong><br>
+Monitoring endpoint behavior and understanding detection and response mechanisms
+</p>
+
+<p>
+<strong>Aggregation & Integration</strong><br>
+Centralizing and correlating logs across multiple systems
+</p>
+
+<p>
+<strong>API Interaction & Automation</strong><br>
+Integrating tools and automating workflows through API-based communication
+</p>
+
+<p>
+<strong>Active Directory</strong><br>
+Managing authentication, authorization, and policy enforcement in a domain environment
+</p>
+
+<p>
+<strong>Cross-Platform Administration</strong><br>
+Operating across Windows and Linux environments to understand differences in system behavior and security controls
+</p>
+
+<p>
+<strong>Vulnerability Assessment</strong><br>
+Identification, validation, and prioritization of system weaknesses through scanning and analysis
+</p>
+
+<p>
+<strong>System Hardening & Baselines</strong><br>
+Applying and validating secure configuration standards aligned with industry benchmarks
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
