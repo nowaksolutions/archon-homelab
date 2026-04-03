@@ -27,7 +27,7 @@
 <strong>Purpose:</strong> Hands-on SOC and security engineering training environment<br>
 <strong>Focus:</strong> Threat detection, log analysis, and system integration<br>
 <strong>Stack:</strong> Windows, Linux, SIEM, Active Directory, Firewall, Raspberry Pi<br>
-<strong>Approach:</strong> OPSEC-driven, structured, and process-oriented
+<strong>Approach:</strong> security-driven, structured, and process-oriented
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
