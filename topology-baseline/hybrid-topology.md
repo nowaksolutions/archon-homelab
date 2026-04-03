@@ -1,4 +1,4 @@
-<h2 align="center">Topology Overview</h2>
+<h2 align="center">Hybrid Topology Overview</h2>
 
 <p align="center">
   This hybrid topology represents a segmented homelab environment combining physical infrastructure
