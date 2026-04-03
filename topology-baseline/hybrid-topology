@@ -1,36 +1,3 @@
 <p align="center">
-  <img src="archon-homelab/topology-baseline/assets/archon-phys-topo.jpg" alt="Network Topology" width="800">
+  <img src="assets/archon-phys-topo.jpg" alt="ARCHON Physical Topology" width="850">
 </p>
-
-# ARCHON Homelab
-
-Segmented enterprise-style homelab built to simulate network security operations, monitoring, logging, and infrastructure management.
-
-## Overview
-
-This project documents the design and buildout of a cybersecurity-focused homelab intended to emulate core enterprise components and security functions. The environment is being developed to support hands-on practice with segmentation, monitoring, detection, logging, system administration, and defensive operations.
-
-## Topology
-
-![Network Topology](topology/network-topology.png)
-
-## Core Components
-
-Firewall - Enforces traffic control, segmentation, and policy inspection  
-SIEM - Centralizes logs for visibility, analysis, and detection  
-Domain Controller - Supports authentication, identity, and centralized policy management  
-Raspberry Pi Monitor - Provides lightweight health monitoring and supporting services  
-NAS - Stores backups, logs, and supporting lab data  
-UPS - Maintains short-term power continuity and protects infrastructure stability  
-Virtual Machines - Simulate user, server, and attacker systems for testing and validation
-
-## Objectives
-
-- Build and document a segmented homelab environment
-- Practice network defense and monitoring workflows
-- Simulate enterprise infrastructure and security operations
-- Create a public portfolio of hands-on cybersecurity work
-
-## Project Status
-
-Initial topology and repository structure in progress.
