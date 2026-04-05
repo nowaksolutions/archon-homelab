@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="firewall-switch/assets/fw-sw-dep-banner.png" width="100%">
+  <img src="firewall-switch/assets/fw-sw-dep-banner.png" width="90%">
 </p>
 
 ## 📌 Objective
