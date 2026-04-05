@@ -32,8 +32,6 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 <h2>🖥️ Physical Lab Environment</h2>
 
 <p align="center">
