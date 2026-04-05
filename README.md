@@ -32,6 +32,18 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<h2>🖥️ Physical Lab Environment</h2>
+
+<p align="center">
+  <img src="assets/homelab-photo.jpg" alt="ARCHON Homelab Setup" width="85%">
+</p>
+
+<p align="center">
+  <i>Physical deployment of the ARCHON homelab environment supporting segmented networking, monitoring, and system integration.</i>
+</p>
+
 <h2>🎯 Purpose & Development Approach</h2>
 
 <p>
