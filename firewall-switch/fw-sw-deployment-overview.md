@@ -40,7 +40,7 @@ This lab demonstrates how switching, trunking, and firewall controls operate tog
 
 ## 🔍 Packet Flow Walkthrough
 
-
+```text
 [Endpoint Device]
    ↓ (untagged Ethernet frame)
 [Switch Access Port]
@@ -55,6 +55,7 @@ This lab demonstrates how switching, trunking, and firewall controls operate tog
 [Destination VLAN or External Network]
 
 Return traffic follows the same path in reverse with stateful inspection applied.
+```
 
 ---
 
