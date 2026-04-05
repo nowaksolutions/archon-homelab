@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="archon-homelab/firewall-switch/assets/fw-sw-dep-banner.png" width="100%">
+  <img src="assets/fw-sw-dep-banner.png" width="100%">
 </p>
 
 ## 📌 Objective
