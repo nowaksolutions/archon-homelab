@@ -1,6 +1,6 @@
-# 🔐 Firewall and Switch Deployment with VLAN Segmentation
-
----
+<p align="center">
+  <img src="firewall-switch/assets/fw-sw-dep-banner.png" width="100%">
+</p>
 
 ## 📌 Objective
 
