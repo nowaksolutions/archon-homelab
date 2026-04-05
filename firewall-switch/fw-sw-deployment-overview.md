@@ -40,7 +40,7 @@ This lab demonstrates how switching, trunking, and firewall controls operate tog
 
 ## 🔍 Packet Flow Walkthrough
 
-```text
+
 [Endpoint Device]
    ↓ (untagged Ethernet frame)
 [Switch Access Port]
