@@ -25,6 +25,12 @@
   <i>I want to give a quick thank you to my friend Reece Niemuth for being a mentor throughout this process and for the design inspiration behind this lab. Your guidance and perspective have played a major role in shaping what I’m building here, and I truly appreciate it.</i>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ReeceNiemuth" target="_blank">
+    <img src="https://img.shields.io/badge/Mentor-Reece%20Niemuth-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <h2>🔎 Quick Snapshot</h2>
