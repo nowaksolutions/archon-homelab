@@ -2,9 +2,6 @@
   <img src="assets/banner.png" alt="ARCHON-WS01 Banner" width="100%">
 </p>
 
-<h1 align="center">ARCHON-WS01</h1>
-<p align="center"><strong>Digital Forensics & Analysis Workstation</strong></p>
-
 <p align="center">
   <em>Endpoint-level visibility, investigation, and controlled analysis within ARCHON</em>
 </p>
