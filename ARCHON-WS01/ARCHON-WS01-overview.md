@@ -46,6 +46,10 @@ Wireshark - Packet capture and protocol inspection
 **Malware Analysis**  
 Flare VM - Controlled malware analysis environment  
 
+<p align="center">
+  <img src="assets/tooling.png" alt="ARCHON-WS01 Tooling Stack" width="100%">
+</p>
+
 ---
 
 ## Operational Focus
