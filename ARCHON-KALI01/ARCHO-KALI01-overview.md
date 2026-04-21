@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="ARCHON-KALI01 Banner" width="100%">
 </p>
 
-<h1 align="center">ARCHON-KALI01</h1>
-<p align="center">
   <strong>Offensive Security & Attack Simulation Node</strong><br>
   <em>Internal Adversary Emulation • Detection Validation • Red Team Workflows</em>
 </p>
