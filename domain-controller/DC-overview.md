@@ -2,9 +2,6 @@
   <img src="assets/dc-deployment-banner.png" alt="Domain Controller Deployment Banner" width="100%">
 </p>
 
-<h1 align="center">Domain Controller Deployment</h1>
-<p align="center"><strong>Active Directory | Identity & Access Management | DNS</strong></p>
-
 ---
 
 ## 🔷 Overview
