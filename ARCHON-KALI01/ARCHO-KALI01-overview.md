@@ -2,10 +2,6 @@
   <img src="assets/banner.png" alt="ARCHON-KALI01 Banner" width="100%">
 </p>
 
-  <strong>Offensive Security & Attack Simulation Node</strong><br>
-  <em>Internal Adversary Emulation • Detection Validation • Red Team Workflows</em>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Kali%20Linux-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Role-Attack%20Node-red?style=flat-square">
