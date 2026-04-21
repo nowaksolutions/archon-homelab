@@ -40,6 +40,10 @@ The Domain Controller is deployed within a segmented lab network to replicate en
 
 This design reinforces separation of duties and reduces unnecessary exposure across network boundaries.
 
+<p align="center">
+  <img src="assets/topo.jpg" alt="Domain Controller Network Topology" width="75%">
+</p>
+
 ---
 
 ## 🔷 Security Design & Hardening Approach
@@ -56,6 +60,10 @@ Privileged operations are separated from standard user activity
 
 Account Policies  
 Lockout thresholds and credential policies are enforced to mitigate brute-force attempts  
+
+<p align="center">
+  <img src="assets/iam.jpg" alt="Identity and Access Management Overview" width="75%">
+</p>
 
 ---
 
